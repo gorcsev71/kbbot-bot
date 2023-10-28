@@ -3,4 +3,5 @@
 .env
 .DS_Store
 __pycache__
-kbbot.bot
+kbbot-local.bot
+kbbot-remote.bot
