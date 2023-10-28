@@ -88,5 +88,5 @@ if __name__ == "__main__":
         print("error")
         raise error
 
-# startup command in the webservice konfiguration
-# python3.7 -m aiohttp.web -H 0.0.0.0 -P 8000 application:init_func    
+# startup command in the webservice configuration
+# python -m aiohttp.web -H 0.0.0.0 -P 8000 application:init_func    
